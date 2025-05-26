@@ -4,8 +4,8 @@
 The project includes model training and deployment notebooks, and a hosted [project website](https://sites.google.com/view/textualizer/) with detailed documentation, which includes a synopsis, pitch video, and the project charter.
 
 ## Files
-- `OCR development.ipynb`: Model training notebook
-- `textualizer.ipynb`: Deployment notebook
+- `OCR Development.ipynb`: Model training notebook
+- `Textualizer.ipynb`: Deployment notebook
 - `handwriting.model`: Trained model file
 
 ---
